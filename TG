@@ -13,8 +13,8 @@ logo[3]=" ||    |''    | '|' ||   ||       | '|' ||   ||   || ||       ||   |."
 logo[4]=" '|.' '|||.  .|. | .||. .||....| .|. | .||. .||..|' .||....| .||.  '|'"
 logo[5]="    .|...'"
 logo[6]="➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖"
-logo[7]="کانال ما : @Lite_Team"
-logo[8]="نویسنده : @mohammadstar_98"
+logo[7]="channel : @Lite_Team"
+logo[8]="creator : @mohammadstar_98"
 printf "\e[38;5;213m\t"
     for i in ${!logo[@]}; do
         for x in `seq 0 ${#logo[$i]}`; do
@@ -178,8 +178,8 @@ echo -e "5 => \033[38;5;208mServer info\033[0;00m"
 echo -e "6 => \033[38;5;208mRemove bot\033[0;00m"
 echo -e "0 => \033[38;5;208mExit\033[0;00m"
 echo -e "\033[38;5;208m  ➖  ➖  ➖➖➖➖➖➖  ➖  ➖  ➖  \033[0;00m"
-echo '>کانال ما : '"@Lite_Team"
-echo '>نویسنده : '"@mohammadstar_98"
+echo '>channel : '"@Lite_Team"
+echo '>creator : '"@mohammadstar_98"
 # Options in ./TG <option>
 read VAR
 if [ "$VAR" = 1 ]; then
