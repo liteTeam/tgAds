@@ -48,3 +48,7 @@ git clone https://github.com/liteTeam/tgAds.git && cd tgAds && bash TG
 
 
 good luck baby.
+
+#### channel      [LiteTeam](https://telegram.me/Lite_Team)
+
+
